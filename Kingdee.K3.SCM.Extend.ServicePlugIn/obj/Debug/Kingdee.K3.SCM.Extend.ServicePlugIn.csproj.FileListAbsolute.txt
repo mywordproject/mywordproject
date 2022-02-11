@@ -5,3 +5,9 @@ D:\xtf\Kingdee.K3.SCM.Extend.ServicePlugIn\obj\Debug\Kingdee.K3.SCM.Extend.Servi
 D:\xtf\Kingdee.K3.SCM.Extend.ServicePlugIn\obj\Debug\Kingdee.K3.SCM.Extend.ServicePlugIn.csproj.CopyComplete
 D:\xtf\Kingdee.K3.SCM.Extend.ServicePlugIn\obj\Debug\Kingdee.K3.SCM.Extend.ServicePlugIn.dll
 D:\xtf\Kingdee.K3.SCM.Extend.ServicePlugIn\obj\Debug\Kingdee.K3.SCM.Extend.ServicePlugIn.pdb
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Kingdee.K3.SCM.Extend.ServicePlugIn.dll
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Kingdee.K3.SCM.Extend.ServicePlugIn.pdb
+D:\myword\mywordproject\Kingdee.K3.SCM.Extend.ServicePlugIn\obj\Debug\Kingdee.K3.SCM.Extend.ServicePlugIn.csproj.AssemblyReference.cache
+D:\myword\mywordproject\Kingdee.K3.SCM.Extend.ServicePlugIn\obj\Debug\Kingdee.K3.SCM.Extend.ServicePlugIn.csproj.CoreCompileInputs.cache
+D:\myword\mywordproject\Kingdee.K3.SCM.Extend.ServicePlugIn\obj\Debug\Kingdee.K3.SCM.Extend.ServicePlugIn.dll
+D:\myword\mywordproject\Kingdee.K3.SCM.Extend.ServicePlugIn\obj\Debug\Kingdee.K3.SCM.Extend.ServicePlugIn.pdb

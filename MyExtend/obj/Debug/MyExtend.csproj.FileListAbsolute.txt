@@ -5,3 +5,8 @@ D:\xtf\MyExtend\obj\Debug\MyExtend.csproj.CopyComplete
 D:\xtf\MyExtend\obj\Debug\MyExtend.dll
 D:\xtf\MyExtend\obj\Debug\MyExtend.pdb
 D:\xtf\MyExtend\obj\Debug\MyExtend.csproj.AssemblyReference.cache
+D:\myword\mywordproject\MyExtend\obj\Debug\MyExtend.csproj.CoreCompileInputs.cache
+D:\myword\mywordproject\MyExtend\obj\Debug\MyExtend.dll
+D:\myword\mywordproject\MyExtend\obj\Debug\MyExtend.pdb
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\MyExtend.dll
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\MyExtend.pdb

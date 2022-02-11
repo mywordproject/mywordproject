@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.32014.148
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kingdee.K3.SCM.Extend.BusinessPlugIn", "Kingdee.K3.SCM.Extend.BusinessPlugIn\Kingdee.K3.SCM.Extend.BusinessPlugIn.csproj", "{36CC42F6-1AB8-47AC-AF8B-978557608E23}"
 EndProject
@@ -16,8 +16,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kingdee.CD.XTF.Business.PlugIn", "kingdee.CD.XTF.Business.PlugIn\kingdee.CD.XTF.Business.PlugIn.csproj", "{6C689C65-64A2-41A4-AE94-716C54F18F77}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YYLK", "YYLK\YYLK.csproj", "{D10CA7A2-51F1-41E2-A64F-3BFC6A47F944}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GYL.ServicePlugIn", "GYL.ServicePlugIn\GYL.ServicePlugIn.csproj", "{788662BC-8B87-49D2-A0B2-4D3B1DED015A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,10 +51,6 @@ Global
 		{D10CA7A2-51F1-41E2-A64F-3BFC6A47F944}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D10CA7A2-51F1-41E2-A64F-3BFC6A47F944}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D10CA7A2-51F1-41E2-A64F-3BFC6A47F944}.Release|Any CPU.Build.0 = Release|Any CPU
-		{788662BC-8B87-49D2-A0B2-4D3B1DED015A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{788662BC-8B87-49D2-A0B2-4D3B1DED015A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{788662BC-8B87-49D2-A0B2-4D3B1DED015A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{788662BC-8B87-49D2-A0B2-4D3B1DED015A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

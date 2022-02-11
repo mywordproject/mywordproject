@@ -5,3 +5,9 @@ D:\xtf\kingdee.CD.XTF.Business.PlugIn\obj\Debug\kingdee.CD.XTF.Business.PlugIn.c
 D:\xtf\kingdee.CD.XTF.Business.PlugIn\obj\Debug\kingdee.CD.XTF.Business.PlugIn.csproj.CopyComplete
 D:\xtf\kingdee.CD.XTF.Business.PlugIn\obj\Debug\kingdee.CD.XTF.Business.PlugIn.dll
 D:\xtf\kingdee.CD.XTF.Business.PlugIn\obj\Debug\kingdee.CD.XTF.Business.PlugIn.pdb
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\kingdee.CD.XTF.Business.PlugIn.dll
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\kingdee.CD.XTF.Business.PlugIn.pdb
+D:\myword\mywordproject\kingdee.CD.XTF.Business.PlugIn\obj\Debug\kingdee.CD.XTF.Business.PlugIn.csproj.AssemblyReference.cache
+D:\myword\mywordproject\kingdee.CD.XTF.Business.PlugIn\obj\Debug\kingdee.CD.XTF.Business.PlugIn.csproj.CoreCompileInputs.cache
+D:\myword\mywordproject\kingdee.CD.XTF.Business.PlugIn\obj\Debug\kingdee.CD.XTF.Business.PlugIn.dll
+D:\myword\mywordproject\kingdee.CD.XTF.Business.PlugIn\obj\Debug\kingdee.CD.XTF.Business.PlugIn.pdb

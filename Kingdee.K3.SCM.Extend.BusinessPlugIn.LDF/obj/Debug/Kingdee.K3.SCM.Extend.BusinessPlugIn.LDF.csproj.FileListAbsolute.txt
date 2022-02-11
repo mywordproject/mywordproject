@@ -6,3 +6,6 @@ D:\xtf\Kingdee.K3.SCM.Extend.BusinessPlugIn.LDF\obj\Debug\Kingdee.K3.SCM.Extend.
 D:\xtf\Kingdee.K3.SCM.Extend.BusinessPlugIn.LDF\obj\Debug\Kingdee.K3.SCM.Extend.BusinessPlugIn.LDF.pdb
 E:\kingdee\WebSite\bin\Kingdee.K3.SCM.Extend.BusinessPlugIn.LDF.dll
 E:\kingdee\WebSite\bin\Kingdee.K3.SCM.Extend.BusinessPlugIn.LDF.pdb
+D:\myword\mywordproject\Kingdee.K3.SCM.Extend.BusinessPlugIn.LDF\obj\Debug\Kingdee.K3.SCM.Extend.BusinessPlugIn.LDF.csproj.CoreCompileInputs.cache
+D:\myword\mywordproject\Kingdee.K3.SCM.Extend.BusinessPlugIn.LDF\obj\Debug\Kingdee.K3.SCM.Extend.BusinessPlugIn.LDF.dll
+D:\myword\mywordproject\Kingdee.K3.SCM.Extend.BusinessPlugIn.LDF\obj\Debug\Kingdee.K3.SCM.Extend.BusinessPlugIn.LDF.pdb

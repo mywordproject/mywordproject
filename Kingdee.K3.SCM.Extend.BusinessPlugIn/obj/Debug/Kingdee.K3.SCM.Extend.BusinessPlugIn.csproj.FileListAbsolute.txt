@@ -5,3 +5,9 @@ D:\xtf\Kingdee.K3.SCM.Extend.BusinessPlugIn\obj\Debug\Kingdee.K3.SCM.Extend.Busi
 D:\xtf\Kingdee.K3.SCM.Extend.BusinessPlugIn\obj\Debug\Kingdee.K3.SCM.Extend.BusinessPlugIn.csproj.CopyComplete
 D:\xtf\Kingdee.K3.SCM.Extend.BusinessPlugIn\obj\Debug\Kingdee.K3.SCM.Extend.BusinessPlugIn.dll
 D:\xtf\Kingdee.K3.SCM.Extend.BusinessPlugIn\obj\Debug\Kingdee.K3.SCM.Extend.BusinessPlugIn.pdb
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Kingdee.K3.SCM.Extend.BusinessPlugIn.dll
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Kingdee.K3.SCM.Extend.BusinessPlugIn.pdb
+D:\myword\mywordproject\Kingdee.K3.SCM.Extend.BusinessPlugIn\obj\Debug\Kingdee.K3.SCM.Extend.BusinessPlugIn.csproj.AssemblyReference.cache
+D:\myword\mywordproject\Kingdee.K3.SCM.Extend.BusinessPlugIn\obj\Debug\Kingdee.K3.SCM.Extend.BusinessPlugIn.csproj.CoreCompileInputs.cache
+D:\myword\mywordproject\Kingdee.K3.SCM.Extend.BusinessPlugIn\obj\Debug\Kingdee.K3.SCM.Extend.BusinessPlugIn.dll
+D:\myword\mywordproject\Kingdee.K3.SCM.Extend.BusinessPlugIn\obj\Debug\Kingdee.K3.SCM.Extend.BusinessPlugIn.pdb
