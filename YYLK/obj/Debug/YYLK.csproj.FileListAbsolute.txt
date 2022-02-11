@@ -1,0 +1,7 @@
+E:\kingdee\WebSite\bin\YYLK.dll
+E:\kingdee\WebSite\bin\YYLK.pdb
+D:\xtf\YYLK\obj\Debug\YYLK.csproj.CoreCompileInputs.cache
+D:\xtf\YYLK\obj\Debug\YYLK.csproj.CopyComplete
+D:\xtf\YYLK\obj\Debug\YYLK.dll
+D:\xtf\YYLK\obj\Debug\YYLK.pdb
+D:\xtf\YYLK\obj\Debug\YYLK.csproj.AssemblyReference.cache

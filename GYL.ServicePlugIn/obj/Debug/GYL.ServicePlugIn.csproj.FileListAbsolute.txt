@@ -1,0 +1,19 @@
+D:\WorkSpace\SLSB\新天丰一期\Code\GYL.ServicePlugIn\obj\Debug\GYL.ServicePlugIn.csproj.CoreCompileInputs.cache
+D:\WorkSpace\SLSB\新天丰一期\K3Cloud\BIN\GYL.ServicePlugIn.dll.config
+D:\WorkSpace\SLSB\新天丰一期\K3Cloud\BIN\GYL.ServicePlugIn.dll
+D:\WorkSpace\SLSB\新天丰一期\K3Cloud\BIN\GYL.ServicePlugIn.pdb
+D:\WorkSpace\SLSB\新天丰一期\Code\GYL.ServicePlugIn\obj\Debug\GYL.ServicePlugIn.dll
+D:\WorkSpace\SLSB\新天丰一期\Code\GYL.ServicePlugIn\obj\Debug\GYL.ServicePlugIn.pdb
+D:\WorkSpace\SLSB\新天丰一期\Code\GYL.ServicePlugIn\obj\Debug\GYL.ServicePlugIn.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\GYL.ServicePlugIn.dll.config
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\GYL.ServicePlugIn.dll
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\GYL.ServicePlugIn.pdb
+D:\项目源码\GYL.ServicePlugIn\obj\Debug\GYL.ServicePlugIn.csproj.CoreCompileInputs.cache
+D:\项目源码\GYL.ServicePlugIn\obj\Debug\GYL.ServicePlugIn.dll
+D:\项目源码\GYL.ServicePlugIn\obj\Debug\GYL.ServicePlugIn.pdb
+D:\项目源码\GYL.ServicePlugIn\obj\Debug\GYL.ServicePlugIn.csproj.AssemblyReference.cache
+D:\xtf\GYL.ServicePlugIn\obj\Debug\GYL.ServicePlugIn.csproj.AssemblyReference.cache
+D:\xtf\GYL.ServicePlugIn\obj\Debug\GYL.ServicePlugIn.csproj.CoreCompileInputs.cache
+D:\xtf\GYL.ServicePlugIn\obj\Debug\GYL.ServicePlugIn.csproj.CopyComplete
+D:\xtf\GYL.ServicePlugIn\obj\Debug\GYL.ServicePlugIn.dll
+D:\xtf\GYL.ServicePlugIn\obj\Debug\GYL.ServicePlugIn.pdb

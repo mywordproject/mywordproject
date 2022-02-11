@@ -1,0 +1,7 @@
+E:\kingdee\WebSite\bin\Kingdee.K3.FIN.Extend.ServicePlugIn.dll
+E:\kingdee\WebSite\bin\Kingdee.K3.FIN.Extend.ServicePlugIn.pdb
+D:\xtf\Kingdee.K3.FIN.Extend.ServicePlugIn\obj\Debug\Kingdee.K3.FIN.Extend.ServicePlugIn.csproj.AssemblyReference.cache
+D:\xtf\Kingdee.K3.FIN.Extend.ServicePlugIn\obj\Debug\Kingdee.K3.FIN.Extend.ServicePlugIn.csproj.CoreCompileInputs.cache
+D:\xtf\Kingdee.K3.FIN.Extend.ServicePlugIn\obj\Debug\Kingdee.K3.FIN.Extend.ServicePlugIn.csproj.CopyComplete
+D:\xtf\Kingdee.K3.FIN.Extend.ServicePlugIn\obj\Debug\Kingdee.K3.FIN.Extend.ServicePlugIn.dll
+D:\xtf\Kingdee.K3.FIN.Extend.ServicePlugIn\obj\Debug\Kingdee.K3.FIN.Extend.ServicePlugIn.pdb

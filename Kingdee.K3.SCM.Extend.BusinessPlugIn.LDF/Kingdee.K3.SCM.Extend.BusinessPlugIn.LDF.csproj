@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D76ACFF5-0F0F-4B14-BF73-7BA9B236213A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Kingdee.K3.SCM.Extend.BusinessPlugIn.LDF</RootNamespace>
+    <AssemblyName>Kingdee.K3.SCM.Extend.BusinessPlugIn.LDF</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>E:\kingdee\WebSite\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Kingdee.BOS">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.BOS.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.BOS.App">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.BOS.App.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.BOS.App.Core">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.BOS.App.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.BOS.Business.DynamicForm">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.BOS.Business.DynamicForm.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.BOS.BusinessEntity">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.BOS.BusinessEntity.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.BOS.Contracts">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.BOS.Contracts.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.BOS.Core">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.BOS.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.BOS.DataEntity">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.BOS.DataEntity.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.BOS.Model">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.BOS.Model.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.BOS.ServiceHelper">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.BOS.ServiceHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.BOS.Verification">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.BOS.Verification.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.BOS.VerificationHelper">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.BOS.VerificationHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.BOS.WebApi.Client">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.BOS.WebApi.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.K3.BD.ServiceHelper">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.K3.BD.ServiceHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.K3.Core">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.K3.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.K3.SCM.Core">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.K3.SCM.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.K3.SCM.CP.Business.PlugIn">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.K3.SCM.CP.Business.PlugIn.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.K3.SCM.CP.Business.Plugin.Html">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.K3.SCM.CP.Business.Plugin.Html.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.K3.SCM.SPM.Business.PlugIn">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.K3.SCM.SPM.Business.PlugIn.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.K3.SCM.IOS.Business.PlugIn">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.K3.SCM.IOS.Business.PlugIn.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.K3.SCM.ServiceHelper">
+      <HintPath>D:\WorkSpace\kd7712\K3Cloud\bin\Kingdee.K3.SCM.ServiceHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\kingdee\WebSite\bin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BB_QTYSZKQLB.cs" />
+    <Compile Include="CGDDBillPlugin.cs" />
+    <Compile Include="CGSQDBillPlugin.cs" />
+    <Compile Include="CGTHBillPlugin.cs" />
+    <Compile Include="kingdee\IOSPriceListEdit.cs" />
+    <Compile Include="LSXYDABillPlugin.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tool\EIEnumerable.cs" />
+    <Compile Include="Tool\EObject.cs" />
+    <Compile Include="Tool\Result.cs" />
+    <Compile Include="Tool\Utils.cs" />
+    <Compile Include="XSJMBBillPlugin.cs" />
+    <Compile Include="XSJMBServerPlugin.cs" />
+    <Compile Include="代垫管理\KLHTBillPlugin.cs" />
+    <Compile Include="代垫管理\KLHTDW.cs" />
+    <Compile Include="代垫管理\MDHTBillPlugin.cs" />
+    <Compile Include="代垫管理\MDHTDW.cs" />
+    <Compile Include="代垫管理\QTCKDBCJS.cs" />
+    <Compile Include="代垫管理\QTCKDBillPlugin.cs" />
+    <Compile Include="代垫管理\QTRKDBCJS.cs" />
+    <Compile Include="代垫管理\QTTKBillPlugin.cs" />
+    <Compile Include="代垫管理\XSDDBillPlugin.cs" />
+    <Compile Include="代垫管理\XSDDServerPlugin.cs" />
+    <Compile Include="组织间结算\DTBDBillPlugin.cs" />
+    <Compile Include="组织间结算\NBJGPLTZFormPlugin.cs" />
+    <Compile Include="组织间结算\XSCKDServerPlugin.cs" />
+    <Compile Include="组织间结算\ZJDBDBillPlugin.cs" />
+    <Compile Include="组织间结算\ZZJJSBillPlugin.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

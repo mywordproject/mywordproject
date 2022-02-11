@@ -1,0 +1,7 @@
+E:\kingdee\WebSite\bin\MyExtend.dll
+E:\kingdee\WebSite\bin\MyExtend.pdb
+D:\xtf\MyExtend\obj\Debug\MyExtend.csproj.CoreCompileInputs.cache
+D:\xtf\MyExtend\obj\Debug\MyExtend.csproj.CopyComplete
+D:\xtf\MyExtend\obj\Debug\MyExtend.dll
+D:\xtf\MyExtend\obj\Debug\MyExtend.pdb
+D:\xtf\MyExtend\obj\Debug\MyExtend.csproj.AssemblyReference.cache
